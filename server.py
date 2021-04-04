@@ -5,7 +5,7 @@ from constRPC import *  #-
 #-
 class Server:
   def __init__(self, port=PORT): 
-    self.host = '34.205.156.89'               # this machine                     
+    self.host = '3.95.148.54'               # this machine                     
     self.port = port                      # the port it will listen to 
     self.sock = socket()                  # socket for incoming calls   
     self.sock.bind((self.host,self.port)) # bind socket to an address    
