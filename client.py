@@ -4,7 +4,7 @@ from constRPC import * #-
 #-
 class Client:
   def __init__(self, port):  
-    self.host = '54.172.152.13'               # this machine
+    self.host = '3.83.31.238'               # this machine
     self.port = port                       # port it will listen to
     self.sock = socket()                   # socket for incoming calls
     self.sock.bind((self.host, self.port)) # bind socket to an address
