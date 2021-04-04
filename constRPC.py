@@ -1,0 +1,12 @@
+OK       = '1'
+ADD      = '2'
+APPEND   = '3'
+GETVALUE = '4'
+CREATE   = '5'
+STOP     = '6'
+HOST    = '54.89.183.9'
+PORT    = 1
+CLIENT1 = 2
+CLIENT2 = 3
+HOSTCL1 = '3.90.3.113'
+HOSTCL2 = '34.205.140.4'
